@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AgVantage is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://agvantage.com/
+AgVantage Software, Inc. has been serving the agribusiness sector since 1976, providing technology solutions that simplify the management of farming enterprises. The company offers a suite of software tools for dispatch, accounting, and online payments, enabling growers to streamline operations, improve efficiency, and stay connected with customers. With a focus on employee‑owned values, innovation, and responsive support, AgVantage delivers cloud‑based platforms that integrate field data, financial management, and real‑time reporting. Its services include dispatch management, banking integration, and a customer portal, all designed to help agribusinesses harness technology while reducing administrative overhead.
+
+**Areas:** Company · Agriculture · Software · SaaS · Agribusiness · Management · Technology
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agvantage.com/)
+- [Support](https://agvantage.com/support.html)
+- [Blog](https://agvantage.com/News_Events.html)
+- [GitHub](https://github.com/agvantage)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/agvantage/](https://apis.io/providers/agvantage/).
